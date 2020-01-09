@@ -50,9 +50,6 @@ float: right;
 margin: 0 auto;
 }
 
-header{
-    
-}
 
 .top-links{
     font-weight: bold;
@@ -79,6 +76,10 @@ header{
 }
 .top-links li:nth-child(5) a{
     color: #dbdcdd;
+}
+
+.top-links li, .top-links li a:hover{
+    color: #1DB954;    
 }
 
 a{
@@ -130,6 +131,10 @@ a:hover{
             
 }
 
+.button-get-spotify:hover{
+    color: #f3f3f3;
+}
+
 .clear{
     clear: both;
 }
@@ -178,7 +183,7 @@ a:hover{
     border-radius: 40px;
     padding: 15px 5px;
     margin: auto;
-    margin-bottom;: 10px;
+    margin-bottom: 10px;
 }
 
 .underline{
@@ -242,7 +247,7 @@ footer{
     position: relative;
     top: -167px;
     left: 192px;
-    0
+    
 }
 
 .useful-links{
@@ -295,11 +300,9 @@ footer{
 .footer-legal-container li{
     font-size: 0.9em;
     color: #919496;
-    display: inline;
-    width: 400px;
-    
-    
+    display: inline;    
 }
+
 .footer-legal-container a, .footer-copyright{
     font-size: 0.8em;
     color: #919496;
