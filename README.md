@@ -5,8 +5,8 @@ I built this project using just HTML and CSS
 
 No CSS framework was used.
 
-No flexbox or css grid layout was used, purely basic CSS
+No flexbox or css grid layout was used, purely CSS float and position
 
 The cover image was designed by me
 
-To view th project click https://creasedigital.github.io/spotify-clone/
+To view the project click https://creasedigital.github.io/spotify-clone/
