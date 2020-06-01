@@ -7,6 +7,6 @@ No CSS framework was used.
 
 No flexbox or css grid layout was used, purely CSS float and position
 
-The cover image was designed by me
+The cover image was designed by me using Adobe Illustrator
 
 To view the project click https://creasedigital.github.io/spotify-clone/
